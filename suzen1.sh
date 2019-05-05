@@ -1,2 +1,2 @@
-ls
-cat diary.txt 
+ ls
+ cat diary.txt 
