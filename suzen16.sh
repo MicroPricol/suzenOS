@@ -1,2 +1,2 @@
 #!/bin/bash 
-id
+id | egrep -w "[A-Za-z0-9]{28}"
