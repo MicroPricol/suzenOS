@@ -1,5 +1,2 @@
 #!/bin/bash
-ls 
-cat flag 
-
-
+var=$(cat flag); echo "Flag is $var"
