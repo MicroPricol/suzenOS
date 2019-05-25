@@ -11,5 +11,5 @@ rm file3
 cd ..
 ls
 cd suzen/
-ls
-
+var=$(ls) 
+echo 'Flag is' $var
