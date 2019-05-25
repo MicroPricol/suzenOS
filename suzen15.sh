@@ -1,3 +1,4 @@
 #!/bin/bash
-~pwd
+var=$(pwd)
+echo 'Flag is' $var
 
