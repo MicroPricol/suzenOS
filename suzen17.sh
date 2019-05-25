@@ -1,3 +1,4 @@
-/home/suzen # ls -a
-.                              ..                             .bmVlNm1lMEhhaU11M2thaGVpNmEK
+#!/bin/bash 
+ls -a
+
 
