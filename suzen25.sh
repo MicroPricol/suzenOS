@@ -1,5 +1,5 @@
-/home/suzen # ls 
-flag
-/home/suzen # cat flag 
-dGhlZThhcXVpZUNpTGFpdGhlZTkK 
+#!/bin/bash
+ls 
+cat flag 
+
 
