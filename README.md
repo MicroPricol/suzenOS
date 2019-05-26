@@ -18,13 +18,13 @@
 
  ## Список решенных : 
 
-#### * **Suzen1**
-#### + **Suzen14**
-#### - **Suzen15**
-#### * **Suzen16**
-#### + **Suzen17**
-#### - **Suzen18**
-#### * **Suzen19**
-#### + **Suzen20**
-#### - **Suzen24**
-#### * **Suzen25**
+ * **Suzen1**
+ + **Suzen14**
+ - **Suzen15**
+ * **Suzen16**
+ + **Suzen17**
+ - **Suzen18**
+ * **Suzen19**
+ + **Suzen20**
+ - **Suzen24**
+ * **Suzen25**
