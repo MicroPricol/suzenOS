@@ -11,5 +11,4 @@ rm file3
 cd ..
 ls
 cd suzen/
-var=$(ls) 
-echo 'Flag is' $var
+ls | egrep -w "[A-Za-z0-9]{28}"
