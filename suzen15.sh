@@ -1,4 +1,3 @@
 #!/bin/bash
-var=$(pwd)
-echo 'Flag is' $var
+var=$(pwd); echo "Flag is $var"
 
